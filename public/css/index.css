@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+  }
+
+.card-header {
+    background-color: #960019 !important;
+}
+
+.card {
+    border-color: white ;
+    border-radius: 3px;
+    background-color: black;
+}

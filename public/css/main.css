@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+  }
+
+body {
+    background-color: #01020a;
+}
+
+.navbar {
+    background-color: #3d364b!important;
+}
+
+.navbar span{
+    color: #cfebfd !important;
+}
+
+.adm{
+    color: #cfebfd !important;
+}
+
+#itens ul li span {
+    color: #623390 !important;
+}
+
+#itens ul li .adm {
+    color: #cfebfd !important;
+}
+
+
+#itens a {
+    color: #cfebfd !important;
+}
+
+.principal {
+    color: #960900;
+}
